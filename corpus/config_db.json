@@ -5,8 +5,7 @@
       "name": "CompSoc",
       "slug": "compsoc",
       "what_we_do": "Intelligence deals with fields such as Machine Learning, Artificial Intelligence, Deep Learning, Computer Vision, NLP. Systems is related to fields involving Operating Systems, Parallel Computing, Network Security, Distributed Systems. Core Computer Science involves Algorithms, Cryptography, Databases, Game Theory, Web & Software Development .",
-      "color": "#fba418",
-      "sig_image": "img/compsoc_sig_image.png"
+      "color": "#fba418"
     },
     "model": "config.sig",
     "pk": 1
@@ -18,8 +17,7 @@
       "name": "Diode",
       "slug": "diode",
       "what_we_do": "For the 2022-23 academic year, IAS showcased a project on a three-level boost converter design for MPPT applications in PV cells. SPS also boasts to showcase state-of-the-art projects such as 'Low Light Image Enhancement using MIRNet', and 'Leveraging Frequency Analysis for Deep Fake Image Classification' at the annual project expo at NITK. In addition, SPS finds its presence in paper discussion sessions, expert talks, and many more enriching activities. Nation wide Workshops, Knowledge sharing sessions and Hackathons were conducted throughout the year by the all three chapters under Diode.",
-      "color": "#59f3e9",
-      "sig_image": "img/diode_sig_image.jpg"
+      "color": "#59f3e9"
     },
     "model": "config.sig",
     "pk": 2
@@ -31,8 +29,7 @@
       "name": "Piston",
       "slug": "piston",
       "what_we_do": "The SIG specializes on a lot of areas like Aerospace Engineering, Automobile Engineering, Chemical and Thermal Engineering, Heat and Renewable Energy Engineering, Robotics, Controls & Mechatronics and Structures & Materials.",
-      "color": "#cb0011",
-      "sig_image": "img/piston_sig_image.png"
+      "color": "#cb0011"
     },
     "model": "config.sig",
     "pk": 3
@@ -660,19 +657,6 @@
     },
     "model": "config.moduleconfiguration",
     "pk": 1
-  },
-  {
-    "fields": {
-      "module_name": "teampage",
-      "module_enabled": true,
-      "module_config": {
-        "2026": 2026,
-        "2027": 2027,
-        "2028": 2028
-      }
-    },
-    "model": "config.moduleconfiguration",
-    "pk": 2
   },
   {
     "fields": {
