@@ -1,41 +1,5 @@
 [
   {
-    "fields": {
-      "about": "The NITK-IEEE Computer Society is a conglomeration of students with a passion for Computer Science and Information Technology. This SIG is a great platform for those who want to gain expertise in computer based technology.\r\nIn the true spirit of divide and conquer, our community intends to explore and contribute to the rapidly evolving world of computer technologies by carrying out research and projects in the broad domains of computer science, in the form of 3 research groups : Intelligence, Systems and Core Computer Science.",
-      "name": "CompSoc",
-      "slug": "compsoc",
-      "what_we_do": "Intelligence deals with fields such as Machine Learning, Artificial Intelligence, Deep Learning, Computer Vision, NLP. Systems is related to fields involving Operating Systems, Parallel Computing, Network Security, Distributed Systems. Core Computer Science involves Algorithms, Cryptography, Databases, Game Theory, Web & Software Development .",
-      "color": "#fba418"
-    },
-    "model": "config.sig",
-    "pk": 1
-  },
-
-  {
-    "fields": {
-      "about": "The Diode IEEE NITK  is a dynamic community of students passionate about Digital Design, Analog Circuits, Signal Processing, Machine Learning, Embedded Systems, and Robotics. We foster a culture of hands-on learning and innovation through peer-driven Knowledge Sharing Sessions and Expert Talks by industry leaders. With flagship national-level hackathons such as Embedathon, Electrika, Impulse, and Robotrix, Diode provides a platform that inspires curiosity, collaboration, and technical excellence among its members.",
-      "name": "Diode",
-      "slug": "diode",
-      "what_we_do": "For the 2022-23 academic year, IAS showcased a project on a three-level boost converter design for MPPT applications in PV cells. SPS also boasts to showcase state-of-the-art projects such as 'Low Light Image Enhancement using MIRNet', and 'Leveraging Frequency Analysis for Deep Fake Image Classification' at the annual project expo at NITK. In addition, SPS finds its presence in paper discussion sessions, expert talks, and many more enriching activities. Nation wide Workshops, Knowledge sharing sessions and Hackathons were conducted throughout the year by the all three chapters under Diode.",
-      "color": "#59f3e9"
-    },
-    "model": "config.sig",
-    "pk": 2
-  },
-
-  {
-    "fields": {
-      "about": "Piston is a SIG dedicated to the engineering applications of Mechanical, Civil, Chemical and Material Sciences. The SIG functions as a platform for students interested in learning and advancing specific areas of knowledge and technology. The SIG members co-operate, communicate, and organise meets, talks and conferences to discuss the latest technological advancements and applications.",
-      "name": "Piston",
-      "slug": "piston",
-      "what_we_do": "The SIG specializes on a lot of areas like Aerospace Engineering, Automobile Engineering, Chemical and Thermal Engineering, Heat and Renewable Energy Engineering, Robotics, Controls & Mechatronics and Structures & Materials.",
-      "color": "#cb0011"
-    },
-    "model": "config.sig",
-    "pk": 3
-  },
-
-  {
     "model": "config.alumnilogo",
     "pk": 1,
     "fields": {
